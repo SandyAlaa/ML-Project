@@ -57,6 +57,5 @@ Output: Spam
 Input: "Hey, are we still meeting for lunch today?"
 Output: Not Spam
 
-Author
 Sandy Alaa
 
